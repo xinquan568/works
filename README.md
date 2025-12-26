@@ -216,9 +216,3 @@
 [3-嫦娥](https://github.com/xinquan568/works/blob/master/poems/po3.md)  
 [2-段郎](https://github.com/xinquan568/works/blob/master/poems/po2.md)  
 [1-那一天](https://github.com/xinquan568/works/blob/master/poems/po1.md)  
-
-<div align=center>
-
-<img src="https://github.com/xinquan568/works/blob/master/resources/wechat.jpg?raw=true" width = "100" height = "100" div align=center />　　　　
-<img src="https://github.com/xinquan568/works/blob/master/resources/weibo.jpg?raw=true" width = "100" height = "100" div align=center />  
-微信　　　　　　　　微博
